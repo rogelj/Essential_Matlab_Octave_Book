@@ -1,7 +1,8 @@
 % We can use a number of mathematical functions
 % such as the trigonometric functions
-x = 3*cos(pi/4), 
-y = 16*sin(pi/3) 
+x = 3*cos(pi/4) 
+
+y = 16*sin(pi/3)
 
 % $$$ x =
 % $$$    2.1213
