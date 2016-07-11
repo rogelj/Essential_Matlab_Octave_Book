@@ -1,0 +1,2 @@
+# Chapter 3 - Matrices and Matrix Operators
+In the previous chapter we saw how to define vectors in MATLAB and Octave as well as the way in which we can manipulate and carry out operations with them. As it turns out, row and column vectors are special cases of matrices. An m × n matrix is a rectangular array of numbers having m rows and n columns.
