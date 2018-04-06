@@ -34,4 +34,8 @@ Dr. Rogel-Salazar has put a huge amount of effort into making the book accessibl
 
 "The text provides a clear and easy paced introduction to MATLAB and Octave. The presentation is example led and contains plenty of useful applications drawn from mathematics, physics, and engineering. This beginner’s handbook will suit a broad scientific readership. A suitable text for a short course or a useful reference for self-study" -- *Dr. Alan McCall, University of Hertfordshire*
 
-"Simply, this is an ideal textbook for those who wish to learn elements of scientific pro- gramming but hesitate to make the first step. The textbook under review skilfully leads the reader from elementary topics to more advanced applications... (it) targets readers who need or wish to enter the realm of scientific computing and look for help. By reading the book, they will find themselves on a tour starting from elementary high school mathematics and, due to the author’s teaching skill, almost effortlessly ending in the world of differential equations." -- *Jan Chleboun, Czech Technical University, Prague*
+"Simply, this is an ideal textbook for those who wish to learn elements of scientific pro- gramming but hesitate to make the first step. The textbook under review skilfully leads the reader from elementary topics to more advanced applications... (it) targets readers who need or wish to enter the realm of scientific computing and look for help. By reading the book, they will find themselves on a tour starting from elementary high school mathematics and, due to the author’s teaching skill, almost effortlessly ending in the world of differential equations." -- *Jan Chleboun, Czech Technical University, Prague*.
+
+
+
+-j
